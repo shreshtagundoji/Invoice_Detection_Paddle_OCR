@@ -25,5 +25,6 @@ Intermediate Outputs -Detected text regions within the receipt images.
 
 ### References
 • Liao, M., Shi, B., & Bai, X. (2018). TextBoxes++: A Single-Shot Oriented Scene Text Detector. IEEE Transactions on Image Processing, 27(8), 3676-3690.
+
 • R. Bi, T. Xu, M. Xu and E. Chen, ”PaddlePaddle: A Production-Oriented Deep Learning Platform Facilitating the Competency of Enterprises,” 2022 IEEE 24th Int Conf on High Performance Computing & Communications; 8th Int Conf on Data Science & Systems; 20th Int Conf on Smart City; 8th Int Conf on Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), Hainan, China, 2022, pp. 92-99, doi: 10.1109/HPCC-DSS-SmartCity-DependSys57074.2022.00046.
 
