@@ -1,6 +1,6 @@
 # PaddleOCR-InvoiceDetection
 
-### Scope of the Project Project Title
+### Project Title
 Automated Receipt Detection Using Neural Networks and PaddleOCR
 
 ### The Application
