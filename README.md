@@ -18,9 +18,9 @@ While existing solutions typically rely on off-the-shelf OCR engines or pretrain
 
 ### Dataset
 
-The RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) dataset consists of 400,000 grayscale images in 16 classes, with 25,000 images per class. There are 320,000 training images, 40,000 validation images, and 40,000 test images. The images are sized so their largest dimension does not exceed 1000 pixels.
+The dataset contains 973 scanned receipts. For each receipt you have an .jpg file of the scanned receipt, a .txt file holding OCR information and a .txt file holding the key information values.
 
-Source- https://huggingface.co/datasets/aharley/rvl_cdip/tree/main/data
+Source- https://www.kaggle.com/datasets/urbikn/sroie-datasetv2/data
 
 ### Inputs and Outputs 
 Inputs - Scanned or digital images of receipts.
