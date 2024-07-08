@@ -16,6 +16,12 @@ Google Cloud Vision API: A cloud-based solution that provides powerful OCR capab
 ### Differentiation from Current State of the Art
 While existing solutions typically rely on off-the-shelf OCR engines or pretrained models, our approach involves building neural networks from scratch tailored for receipt-specific text detection and information extraction. Additionally, we will customizing the models to the structured format of receipts and incorporating advanced techniques, such as YOLOv9 for object detection and PaddleOCR for text recognition, we aim to achieve higher accuracy and efficiency in extracting key information like receipt numbers, dates, total amounts, and vendor details. This approach ensures a more robust and tailored solution for automated receipt analysis compared to general-purpose OCR solutions.
 
+### Dataset
+
+The RVL-CDIP (Ryerson Vision Lab Complex Document Information Processing) dataset consists of 400,000 grayscale images in 16 classes, with 25,000 images per class. There are 320,000 training images, 40,000 validation images, and 40,000 test images. The images are sized so their largest dimension does not exceed 1000 pixels.
+
+Source- https://huggingface.co/datasets/aharley/rvl_cdip/tree/main/data
+
 ### Inputs and Outputs 
 Inputs - Scanned or digital images of receipts.
 
