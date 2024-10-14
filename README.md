@@ -10,7 +10,7 @@ Benefits of this solution? This solution will benefit businesses, accounting dep
 
 ### State of the Art Existing Solutions
 Several solutions have been developed to address the problem of receipt detection and data extraction. Notable ones include:
-Tesseract OCR: An open-source OCR engine that has been used in various applications for text extraction.
+Tesseract OCR: An open-source OCR engine that has been used in various applications for text extraction. 
 Google Cloud Vision API: A cloud-based solution that provides powerful OCR capabilities for detecting and extracting text from images.
 
 ### Differentiation from Current State of the Art
