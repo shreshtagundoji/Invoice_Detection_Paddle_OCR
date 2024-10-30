@@ -1,7 +1,7 @@
 # PaddleOCR-InvoiceDetection
 
 ### Project Title
-Automated Receipt Detection Using Neural Networks and PaddleOCR
+Automated Receipt Detection Using Neural Networks and PaddleOCR 
 
 ### The Application
 The application aims to develop an automated system for detecting and extracting information from receipts using PaddleOCR. The system will streamline the process of handling receipts by accurately identifying and extracting key details such as receipt number, date, total amount, and vendor information from scanned or digital receipts.
